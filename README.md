@@ -1,27 +1,28 @@
 ## Hi there 👋, I'm Joel  
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your_link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/your_link)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your_link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-ferreira-58b199339/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joelferreira.13/)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/lvkzysoqy3tn2kjxq582bue4b)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/joelfer13)
 
 ---
 
 ### 📌 About Me  
 🔹 I'm a passionate **developer, tech enthusiast, and open-source lover**.  
 🔹 Currently learning **JavaScript, CSS, and web development**.  
-🔹 In my free time, I enjoy **playing CS, exploring new technologies, and listening to music** 🎵.  
+🔹 In my free time, I enjoy **playing CS, exploring new technologies, listening to music 🎵, and spending time in nature, especially in the mountains 🏔️**.    
 
-💬 **Want to chat?** Feel free to reach out on social media!  
+💬 **Want to chat?** Feel free to reach out on my discord! 
 
 ---
 
 ### 🛠️ Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+**I'm always looking to expand my knowledge and improve my skills so I want to expand my Tech Stack** 
 ---
 
-⭐ **Feel free to check out my repositories and collaborate!**  
+⭐ **Feel free to check out my (future) repositories and collaborate!**  
