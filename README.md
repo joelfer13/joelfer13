@@ -10,7 +10,7 @@
 ### 📌 About Me  
 🔹 I'm a passionate **developer, tech enthusiast, and open-source lover**.  
 🔹 Currently learning **JavaScript, CSS, and web development**.  
-🔹 In my free time, I enjoy **playing CS, exploring new technologies, listening to music 🎵, and spending time in nature, especially in the mountains 🏔️**.    
+🔹 In my free time, I enjoy **playing games, exploring new technologies, listening to music 🎵, and spending time in nature, especially in the mountains 🏔️**.    
 
 💬 **Want to chat?** Feel free to reach out on my discord! 
 
