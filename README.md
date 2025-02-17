@@ -12,7 +12,7 @@
 🔹 Currently learning **JavaScript, CSS, and web development**.  
 🔹 In my free time, I enjoy **playing games, exploring new technologies, listening to music 🎵, and spending time in nature, especially in the mountains 🏔️**.    
 
-💬 **Want to chat?** Feel free to reach out on my discord! 
+💬 **Want to chat?** Feel free to reach out! 
 
 ---
 
