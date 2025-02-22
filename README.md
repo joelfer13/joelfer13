@@ -22,7 +22,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-🔹I'm always looking to expand my knowledge and improve my skills so I want to expand my Tech Stack 
+I'm always looking to expand my knowledge and improve my skills so I want to expand my Tech Stack.
+
 ---
 
-⭐ **Feel free to check out my (future) repositories and collaborate!**  
+⭐ **Feel free to check out my (future) repositories and collaborate!**
